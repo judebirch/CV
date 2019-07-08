@@ -1,8 +1,6 @@
 ## About
 
-You can use the [editor on GitHub](https://github.com/judebirch/site/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm Jude Birch
 
 ### Markdown
 
@@ -25,6 +23,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
+[Image]("https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x.png")
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
